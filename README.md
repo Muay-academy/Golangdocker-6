@@ -1,2 +1,1 @@
-# Golangdocker-6
-การบ้านครั้งที่ 6: 2022-09-18
+# golangdocker
